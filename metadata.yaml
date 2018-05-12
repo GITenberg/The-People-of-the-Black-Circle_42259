@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36031
     wikipedia: http://en.wikipedia.org/wiki/Robert_E._Howard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42259#The-People-of-the-Black-Circle
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2013-03-04'
 gutenberg_type: Text
